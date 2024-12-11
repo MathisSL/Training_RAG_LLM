@@ -66,8 +66,4 @@ Un système RAG peut être appliqué dans divers domaines :
 
 La combinaison de RAG et LLM ouvre de nouvelles possibilités pour créer des systèmes d'information adaptés, fiables et performants. Un développement continu dans ce domaine permettra d'améliorer les performances et d'élargir les cas d'utilisation.
 
----
-
-Ce document présente les éléments essentiels pour débuter la création d'une pipeline RAG, tout en explorant les concepts fondamentaux des LLM et leur intégration dans un système augmenté.
-
 
